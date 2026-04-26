@@ -3,7 +3,7 @@ Para esta asignación se realizaron 8 problemas de leet code cuales diferencian 
 
 Entre los ocho problemas, se encuentran:
 
-- Cinco de dificultad facil, cuales incluyen: 
+   Cinco de dificultad facil, cuales incluyen: 
 
 * TwoSum - “Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.”
 
@@ -17,13 +17,13 @@ Entre los ocho problemas, se encuentran:
 
 * Roman to Integer - Conversion from roman numeral to their designated integer; Example X = 10, V = 5, I = 1.
 
-- Dos de dificultad mediana, cuales incluyen:
+     Dos de dificultad mediana, cuales incluyen:
 
 * Longest substring without repeating characters - “Given a string s, find the length of the longest substring without duplicate characters.”
 
 * Add two numbers - “You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.”
 
-- Finalmente, uno de dificultad difícil, cual incluye:
+   Finalmente, uno de dificultad difícil, cual incluye:
 
 * Word Ladder - “Given two words, beginWord and endWord, and a dictionary wordList, return the number of words in the shortest transformation sequence from beginWord to endWord, or 0 if no such sequence exists.”
 
