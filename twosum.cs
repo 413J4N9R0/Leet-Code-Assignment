@@ -1,3 +1,4 @@
+//Two Sum (Number #1 on Leetcode)
 public class Solution {
 public int[] TwoSum(int[] nums, int targetnum) { //crea arreglo de numeros y assigna un target number
 Dictionary<int, int> Nums = new Dictionary<int, int>(); //crea hashmap para GET 0(1); hashmaps (dictionaries) utilizan indice con valor
