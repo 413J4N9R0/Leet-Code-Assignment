@@ -1,3 +1,5 @@
+//Longest substring without repeating characters (Number #3 on Leetcode)
+
 public class Solution {
     public int LengthOfLongestSubstring(string s) {
         HashSet<char> substr = new HashSet<char>(); //se crea un hashset para evitar duplicados 0(1) en todo aspecto (worse case ps 0(n)
