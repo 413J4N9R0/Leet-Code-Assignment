@@ -1,4 +1,4 @@
-//Longest substring without repeating characters (Number #3 on Leetcode)
+//Longest substring without repeating any characters (Number #3 on Leetcode)
 
 public class Solution {
     public int LengthOfLongestSubstring(string s) {
